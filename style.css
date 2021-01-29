@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* text-align: center; */
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* justify-content: space-between; */
+  /* align-items: center; */
+}
+
+body {
+  /* background-image: url(https://instagram.ftlv5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/129719736_2662804940697149_9050987153717264040_n.jpg?_nc_ht=instagram.ftlv5-1.fna.fbcdn.net&_nc_ohc=TO5z3yx-GHsAX96QbYG&tp=1&oh=2dfd258d8585ed5015b9bccc523019f5&oe=6030E0BD); */
+  background-color: rgba(15, 74, 201, 0.541);
+  font-family: Arial, Helvetica, sans-serif;
+  /* font-size: 15px; */
+  /* padding: 50px; */
+}
+
+h1 {
+  font-size: x-large;
+  margin-bottom: 25px;
+}
+h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.first {
+  color: red;
+}
+img {
+  size: 10px;
+  font-size: 6px;
+  text-align: center;
+}
+#course-image {
+  size: 50px;
+  text-align: center;
+  width: 250px;
+}
+#your-name {
+  background-color: rgba(255, 166, 0, 0.87);
+  border: 5px solid #444;
+  padding: 25px;
+  width: 400px;
+}
